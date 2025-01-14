@@ -1,0 +1,5 @@
+models:
+  - name: fact_purchase_action
+    columns:
+      - name: level_id
+      - name: package_id
